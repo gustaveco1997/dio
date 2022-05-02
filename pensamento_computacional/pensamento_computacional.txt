@@ -1,0 +1,43 @@
+1) Decomposição
+If you can't solve a problem. then there is an easierproblem that you can solve: find it
+
+ - Dividir em problemas melhores
+ - Depois fundir as partes
+
+2) Padrões
+Extrair características com a finalidade de classificar dados
+ - Modelo Base
+ - Estrutura Invariante
+ - Repetição
+
+3) Abstração
+ Avaliar características e propriedades em separado
+ Isolar um um objeto da realidade, deixar de maneira geral
+ //Estudar grafos
+
+4) Algoritmos
+ Processo de resolução de problemas
+ - Sequência de passos com objetivo definido
+ Step By Step
+
+ Construção
+  - Compreensão do problema
+  - Definição de dados de entrada
+  - Define o processamento
+  - Define dados de saída
+  - Utiliza método de construção
+  - Teste e Diagnóstico
+
+  //Narrativa
+  //Fluxograma
+
+
+  ===============
+  Estudar Busca Binária
+   - Ordena o Vetor
+   - Identifica o módulo L/2 ( L = tamanho)
+   - Acessar estrutura
+   - Comparar valores
+   - Repete até encontrar o alvo
+
+

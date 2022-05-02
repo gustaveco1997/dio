@@ -1,0 +1,7 @@
+#Lógica
+Forma de pensamento estruturada.
+ - Para determinar o que é verdadeiro ou não (dentro de um contexto)
+
+#Técnicas
+ - Organização , disposição e ordem dos elementos
+
